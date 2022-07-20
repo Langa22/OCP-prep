@@ -1,0 +1,18 @@
+Generics
+1.Generics are there to provide type safety and eliminate the type casting problem that programmers face.
+2.Arrays are type safety because once you specify the type of an array you cannot
+  insert anything inside that arrays if the type is string you cannot not insert an integer.
+  Arrays are safe to use with respect to type.
+3.With collections we can add any type but when we want to retrieve data we must cast it and that
+  brings the problem when retrieving the data because we might get class cast exception.
+  (Type casting is required!!!)
+  That means collections are not type safe.
+4.To solve this we need generics. To create generics we use <> to specify the perimeter type
+  e.g ArrayList<String>s=new ArrayList<String>();
+  And the parameter types must be the same.
+  At data retrieval type casting is not required.
+  We can not use any primitive types on the parameter types of generics.
+  e.g ArrayList<int>s=new ArrayList<int>(); wrong
+  We can use object, class or interface.
+
+
