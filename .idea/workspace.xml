@@ -1,28 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="I am new to generics.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OCPNotes.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Gen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/TestEg1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocpbook1/ArrayStore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocpbook1/Circle1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocpbook1/Color.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocpbook1/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocpbook1/HappyBirthday.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocpbook1/ImmutableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocpbook1/ImmutableObj.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocpbook1/Logger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocpbook1/TestColor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocpbook1/TestNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocpbook1/TestShape.java" afterDir="false" />
+    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Advanced class design">
+      <change afterPath="$PROJECT_DIR$/src/Generics/Behavior.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/GenericMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/TestingGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/checkingGen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/FunctionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/FunctionTestObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/PredicateJoining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/TestPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/TestPredicateObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ocpbook1/EnumTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -59,13 +51,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Logger">
-    <configuration name="Logger" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocpbook1.Logger" />
+  <component name="RunManager" selected="Application.FunctionTestObject">
+    <configuration name="FunctionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.FunctionTest" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocpbook1.*" />
+          <option name="PATTERN" value="lambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestColor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocpbook1.TestColor" />
+    <configuration name="FunctionTestObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.FunctionTestObject" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocpbook1.*" />
+          <option name="PATTERN" value="lambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ocpbook1.ArrayStore" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocpbook1.ArrayStore" />
+    <configuration name="PredicateJoining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.PredicateJoining" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocpbook1.*" />
+          <option name="PATTERN" value="lambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ocpbook1.Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocpbook1.Counter" />
+    <configuration name="TestPredicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.TestPredicate" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocpbook1.*" />
+          <option name="PATTERN" value="lambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ocpbook1.ImmutableCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocpbook1.ImmutableCircle" />
+    <configuration name="TestPredicateObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.TestPredicateObjects" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocpbook1.*" />
+          <option name="PATTERN" value="lambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Logger" />
-        <item itemvalue="Application.TestColor" />
-        <item itemvalue="Application.ocpbook1.ArrayStore" />
-        <item itemvalue="Application.ocpbook1.Counter" />
-        <item itemvalue="Application.ocpbook1.ImmutableCircle" />
+        <item itemvalue="Application.FunctionTestObject" />
+        <item itemvalue="Application.FunctionTest" />
+        <item itemvalue="Application.PredicateJoining" />
+        <item itemvalue="Application.TestPredicateObjects" />
+        <item itemvalue="Application.TestPredicate" />
       </list>
     </recent_temporary>
   </component>
@@ -144,6 +136,14 @@
       <option name="presentableId" value="Default" />
       <updated>1655878923006</updated>
     </task>
+    <task id="LOCAL-00001" summary="Advanced class design">
+      <created>1658305621427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658305621427</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +156,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Advanced class design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Advanced class design" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
