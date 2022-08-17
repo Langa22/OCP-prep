@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Advanced class design">
-      <change afterPath="$PROJECT_DIR$/src/Generics/Behavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/GenericMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/TestingGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/checkingGen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/FunctionTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/FunctionTestObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/PredicateJoining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/TestPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/TestPredicateObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ocpbook1/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerClasses/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerClasses/Outer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerClasses/Outer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerClasses/Outer3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerClasses/Outer4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerClasses/Outer5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/innerClasses/Outer6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,13 +47,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FunctionTestObject">
-    <configuration name="FunctionTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.FunctionTest" />
+  <component name="RunManager" selected="Application.Outer5">
+    <configuration name="Outer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerClasses.Outer" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpressions.*" />
+          <option name="PATTERN" value="innerClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionTestObject" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.FunctionTestObject" />
+    <configuration name="Outer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerClasses.Outer1" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpressions.*" />
+          <option name="PATTERN" value="innerClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateJoining" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.PredicateJoining" />
+    <configuration name="Outer3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerClasses.Outer3" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpressions.*" />
+          <option name="PATTERN" value="innerClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPredicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.TestPredicate" />
+    <configuration name="Outer5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerClasses.Outer5" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpressions.*" />
+          <option name="PATTERN" value="innerClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestPredicateObjects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.TestPredicateObjects" />
+    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="innerClasses.Test4" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpressions.*" />
+          <option name="PATTERN" value="innerClasses.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FunctionTestObject" />
-        <item itemvalue="Application.FunctionTest" />
-        <item itemvalue="Application.PredicateJoining" />
-        <item itemvalue="Application.TestPredicateObjects" />
-        <item itemvalue="Application.TestPredicate" />
+        <item itemvalue="Application.Outer5" />
+        <item itemvalue="Application.Test4" />
+        <item itemvalue="Application.Outer3" />
+        <item itemvalue="Application.Outer" />
+        <item itemvalue="Application.Outer1" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +139,21 @@
       <option name="project" value="LOCAL" />
       <updated>1658305621427</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Advanced class design">
+      <created>1660570042181</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660570042181</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Advanced class design">
+      <created>1660583786756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1660583786756</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
