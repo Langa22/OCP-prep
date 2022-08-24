@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Udemy Test">
-      <change afterPath="$PROJECT_DIR$/src/streams/FilterDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/FilterDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/FlatMapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/streams/MapDemo1.java" afterDir="false" />
+    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Filter">
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Question69.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,22 +67,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/CMDQ123/Downloads/Springexample&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/CMDQ123/Downloads/Springexample",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
-  <component name="RunManager" selected="Application.FlatMapDemo1">
-    <configuration name="FilterDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.FilterDemo1" />
+}]]></component>
+  <component name="RunManager" selected="Application.Question69">
+    <configuration name="Question63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Question63" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FilterDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.FilterDemo2" />
+    <configuration name="Question64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Question64" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FlatMapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.FlatMapDemo1" />
+    <configuration name="Question67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Question67" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.MapDemo1" />
+    <configuration name="Question68" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Question68" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="Generics.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,8 +132,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Test2" />
+    <configuration name="Question69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Question69" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FlatMapDemo1" />
-        <item itemvalue="Application.MapDemo1" />
-        <item itemvalue="Application.FilterDemo2" />
-        <item itemvalue="Application.FilterDemo1" />
-        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Question69" />
+        <item itemvalue="Application.Question68" />
+        <item itemvalue="Application.Question67" />
+        <item itemvalue="Application.Question64" />
+        <item itemvalue="Application.Question63" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661167316494</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Filter">
+      <created>1661262151959</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1661262151959</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -182,7 +224,8 @@
     <MESSAGE value="Advanced class design" />
     <MESSAGE value="Inner classes" />
     <MESSAGE value="Udemy Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Udemy Test" />
+    <MESSAGE value="Filter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Filter" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -227,6 +270,26 @@
           <line>9</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Generics/Question28.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Generics/Question28.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Generics/Question28.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Generics/Question28.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ocpbook1/ArrayStore.java</url>
           <line>5</line>
@@ -235,6 +298,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Generics/Question28.java</url>
+          <line>7</line>
+          <properties class="Generics.Question28" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
