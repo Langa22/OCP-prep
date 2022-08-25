@@ -1,44 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Filter">
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question64.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question65.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Generics/Question69.java" afterDir="false" />
+    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Udemy Topic Based(Generics) Test">
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/MovieComparableEg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/MovieComparatorEg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Generics/Numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/Question57.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/Question57.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Generics/Test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Generics/Test6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,9 +50,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Question69">
-    <configuration name="Question63" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Question63" />
+  <component name="RunManager" selected="Application.Question57">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Example" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -93,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Question64" />
+    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Numbers" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -106,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question67" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Question67" />
+    <configuration name="Question57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Generics.Question57" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -147,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question57" />
+        <item itemvalue="Application.Numbers" />
+        <item itemvalue="Application.Example" />
         <item itemvalue="Application.Question69" />
         <item itemvalue="Application.Question68" />
-        <item itemvalue="Application.Question67" />
-        <item itemvalue="Application.Question64" />
-        <item itemvalue="Application.Question63" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +177,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661262151959</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Udemy Topic Based(Generics) Test">
+      <created>1661347320850</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1661347320850</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -225,7 +203,8 @@
     <MESSAGE value="Inner classes" />
     <MESSAGE value="Udemy Test" />
     <MESSAGE value="Filter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Filter" />
+    <MESSAGE value="Udemy Topic Based(Generics) Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Udemy Topic Based(Generics) Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

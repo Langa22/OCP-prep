@@ -10,13 +10,10 @@ class A1<T> {
     void set(T t) {
         this.t = t;
     }
-
     T get() {
         return t;
     }
 }
-
-
 public class Test6 {
     public static <T> void print1(A1<? extends Animal> obj) {
         //obj.set(new Dog()); //Line 22

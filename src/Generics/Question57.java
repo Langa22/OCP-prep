@@ -34,11 +34,10 @@ public class Question57 {
         points.add(new Point1(6, 7));
         points.add(new Point1(2, 2));
 
-//        Collections.sort(points, new Comparator<Point1>() {
-//            public int compareTo(Point1 o1, Point1 o2) {
-//                return o1.getX() - o2.getX();
-//            }
-//        });
+        Collections.sort(points, new Comparator<Point1>() {
+           public int compare(Point1 o1, Point1 o2) {
+               return o1.getX() - o2.getX();
+           }});
 
         System.out.println(points);
     }
