@@ -1,9 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Wildcards and Comparable/Comparator methods">
-      <change afterPath="$PROJECT_DIR$/src/streams/StreamsMethods.java" afterDir="false" />
+    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Streams Methods 1">
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question70.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question84.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/TestComposeAndThen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streams/FilterDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/FilterDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/streams/StreamsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/StreamsMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +102,18 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.StreamsMethods">
-    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Example" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lambdaExpressions" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Question13">
+    <configuration name="Question13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.Question13" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.*" />
+          <option name="PATTERN" value="lambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Numbers" />
+    <configuration name="Question22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.Question22" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.*" />
+          <option name="PATTERN" value="lambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Question57" />
+    <configuration name="Question29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.Question29" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.*" />
+          <option name="PATTERN" value="lambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Generics.Question69" />
+    <configuration name="Question34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.Question34" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Generics.*" />
+          <option name="PATTERN" value="lambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +160,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamsMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="streams.StreamsMethods" />
+    <configuration name="Question42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.Question42" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="streams.*" />
+          <option name="PATTERN" value="lambdaExpressions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StreamsMethods" />
-        <item itemvalue="Application.Question57" />
-        <item itemvalue="Application.Numbers" />
-        <item itemvalue="Application.Example" />
-        <item itemvalue="Application.Question69" />
+        <item itemvalue="Application.Question13" />
+        <item itemvalue="Application.Question22" />
+        <item itemvalue="Application.Question29" />
+        <item itemvalue="Application.Question34" />
+        <item itemvalue="Application.Question42" />
       </list>
     </recent_temporary>
   </component>
@@ -185,7 +248,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661434107022</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Streams Methods 1">
+      <created>1661513508727</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1661513508727</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -206,7 +276,8 @@
     <MESSAGE value="Filter" />
     <MESSAGE value="Udemy Topic Based(Generics) Test" />
     <MESSAGE value="Wildcards and Comparable/Comparator methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wildcards and Comparable/Comparator methods" />
+    <MESSAGE value="Streams Methods 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Streams Methods 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -271,6 +342,36 @@
           <line>11</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambdaExpressions/Question71.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambdaExpressions/Question71.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambdaExpressions/Question71.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambdaExpressions/Question34.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambdaExpressions/Question34.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/lambdaExpressions/Question34.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ocpbook1/ArrayStore.java</url>
           <line>5</line>
@@ -288,6 +389,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lambdaExpressions/Question34.java</url>
+          <line>6</line>
+          <properties class="lambdaExpressions.Question34" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -11,10 +11,10 @@ public class FilterDemo2 {
         List<String>l1=new ArrayList<>();
         List<String>l2=new ArrayList<>();
         l1=names.stream().filter(n->n.length()<5 && n.length()>=2).collect(Collectors.toList());;
-        System.out.println(l1);
+        //System.out.println(l1);
 
         //using map and filter at the same time.
-        l2=names.stream().filter(n->n.length()>3).map(i->i.toUpperCase()).collect(Collectors.toList());
-        System.out.println(l2);
+        l2=names.stream().filter(n->n.length()>3).collect(Collectors.toList());
+        l2.stream().peek(System.out::println);
     }
 }

@@ -2,6 +2,7 @@ package streams;
 
 import java.util.*;
 import java.util.stream.Collectors;
+import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 public class StreamsMethods {
@@ -85,5 +86,61 @@ public class StreamsMethods {
         stringList2.stream()
                 .filter(s->s.length()==3)
                 .peek(System.out::println);
+
+
+        // Java code for Stream allMatch
+        // (Predicate predicate) to check whether
+        // all elements of this stream match
+        // the provided predicate.
+        List<Integer> list = Arrays.asList(3, 4, 6, 12, 20);
+        // Check if all elements of stream
+        // are divisible by 3 or not using
+        // Stream allMatch(Predicate predicate)
+        boolean answer = list.stream().allMatch(n-> n % 3 ==0);
+        // Displaying the result
+        System.out.println(answer);
+
+
+        // Java code for Stream anyMatch
+        // (Predicate predicate) to check whether
+        // any element of this stream match
+        // the provided predicate.
+        // Creating a list of Integers
+        List<Integer> list1 = Arrays.asList(3, 4, 6, 12, 20);
+        // Stream anyMatch(Predicate predicate)
+        boolean answer1 = list1.stream().anyMatch(n
+                -> (n * (n + 1)) / 4 == 5);
+        // Displaying the result
+        System.out.println(answer1);
+
+
+        // Java Program to Illustrate noneMatch() method
+        // of Stream class to check whether
+        // no elements of this stream match the
+        // provided predicate (Predicate predicate)
+        // Creating a Stream of strings
+        // Custom input strings are passed as arguments
+        Stream<String> stream2
+                = Stream.of("CSE", "C++", "Java", "DS");
+
+        // Now using Stream noneMatch(Predicate predicate)
+        // and later storing the boolean answer as
+        boolean answer2
+                = stream2.noneMatch(str -> (str.length() == 4));
+
+        // Printing the boolean value on the console
+        System.out.println(answer2);
+
+
+        //Range method
+        IntStream intStream = IntStream.range(20, 30);
+        intStream.forEach(System.out::println);
+
+        // Creating an empty Stream
+        Stream<Integer> stream3 = Stream.of(1,3,8);
+
+        // Displaying elements in Stream
+        stream3.forEach(System.out::println);
+
     }
 }
