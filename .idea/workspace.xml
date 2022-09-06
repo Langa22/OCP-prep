@@ -1,67 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Streams Methods 1">
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question29.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question65.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question66.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question67.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question68.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question69.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question70.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question71.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question73.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question74.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question76.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question77.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question78.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question81.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question83.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question84.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question89.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question93.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question95.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/Question96.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaExpressions/TestComposeAndThen.java" afterDir="false" />
+    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Streams udemy Answers">
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/1. Language Fundamentals.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/10. java.lang package.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/11. File IO Package.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/12. Serialization.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/13. Regular Expression.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/14 Collections Frame Work.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/15. Generics.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/16 Garbage Collection.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/17. ENUM.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/18. Internationalization (I18N).pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/19. Development.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/2. OPERATORS _ ASSIGNMENTS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/20.  Assertions.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/21. JVM Architecture.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/22. JAVA 8 Features.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/3.  Flow Control.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/4.  Declaration and Access Modifiers.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/5. OOPS.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/6. Exception Handling.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/7. Multi Threading.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/8. Multi Threading Enhancements.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/9. InnerClasses.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Date_TimeApi/LocalDataExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/FilterDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/FilterDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/streams/StreamsMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/streams/StreamsMethods.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,24 +54,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/CMDQ123/Downloads/Springexample&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/CMDQ123/Documents/Projects/OCPNotes/src/DurgaSoftNotes",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\CMDQ123\Documents\Projects\OCPNotes\src\DurgaSoftNotes" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lambdaExpressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question13">
+  <component name="RunManager" selected="Application.LocalDataExample">
+    <configuration name="LocalDataExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Date_TimeApi.LocalDataExample" />
+      <module name="OCPNotes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java_Date_TimeApi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Question13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdaExpressions.Question13" />
       <module name="OCPNotes" />
@@ -160,26 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question42" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.Question42" />
-      <module name="OCPNotes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdaExpressions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LocalDataExample" />
         <item itemvalue="Application.Question13" />
         <item itemvalue="Application.Question22" />
         <item itemvalue="Application.Question29" />
         <item itemvalue="Application.Question34" />
-        <item itemvalue="Application.Question42" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661513508727</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Streams udemy Answers">
+      <created>1662117868106</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662117868106</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,7 +251,8 @@
     <MESSAGE value="Udemy Topic Based(Generics) Test" />
     <MESSAGE value="Wildcards and Comparable/Comparator methods" />
     <MESSAGE value="Streams Methods 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Streams Methods 1" />
+    <MESSAGE value="Streams udemy Answers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Streams udemy Answers" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
