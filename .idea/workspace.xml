@@ -1,30 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Streams udemy Answers">
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/1. Language Fundamentals.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/10. java.lang package.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/11. File IO Package.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/12. Serialization.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/13. Regular Expression.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/14 Collections Frame Work.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/15. Generics.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/16 Garbage Collection.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/17. ENUM.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/18. Internationalization (I18N).pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/19. Development.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/2. OPERATORS _ ASSIGNMENTS.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/20.  Assertions.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/21. JVM Architecture.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/22. JAVA 8 Features.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/3.  Flow Control.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/4.  Declaration and Access Modifiers.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/5. OOPS.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/6. Exception Handling.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/7. Multi Threading.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/8. Multi Threading Enhancements.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DurgaSoftNotes/OCA/9. InnerClasses.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Date_TimeApi/LocalDataExample.java" afterDir="false" />
+    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Durga Notes">
+      <change afterPath="$PROJECT_DIR$/src/Dumps/1f3f9e57-19c5-44bc-81a2-4a83e1771ac3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/6198fec3-fdb7-4858-9324-e38c2809c3e1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question24$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question24$TrafficLight.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question24.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question2Whiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question3whiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,6 +40,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -56,6 +61,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -70,30 +76,20 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\CMDQ123\Documents\Projects\OCPNotes\src\DurgaSoftNotes" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\CMDQ123\Documents\Projects\OCPNotes\src\Dumps" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lambdaExpressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LocalDataExample">
-    <configuration name="LocalDataExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Date_TimeApi.LocalDataExample" />
+  <component name="RunManager" selected="Application.Question27">
+    <configuration name="Question20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question20" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Date_TimeApi.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.Question13" />
-      <module name="OCPNotes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lambdaExpressions.*" />
+          <option name="PATTERN" value="advancedJavaClassDesigned.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,11 +98,11 @@
       </method>
     </configuration>
     <configuration name="Question22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.Question22" />
+      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question22" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpressions.*" />
+          <option name="PATTERN" value="advancedJavaClassDesigned.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.Question29" />
+    <configuration name="Question23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question23" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpressions.*" />
+          <option name="PATTERN" value="advancedJavaClassDesigned.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +123,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question34" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaExpressions.Question34" />
+    <configuration name="Question24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question24" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdaExpressions.*" />
+          <option name="PATTERN" value="advancedJavaClassDesigned.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question27" />
+      <module name="OCPNotes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="advancedJavaClassDesigned.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LocalDataExample" />
-        <item itemvalue="Application.Question13" />
+        <item itemvalue="Application.Question27" />
+        <item itemvalue="Application.Question24" />
+        <item itemvalue="Application.Question23" />
         <item itemvalue="Application.Question22" />
-        <item itemvalue="Application.Question29" />
-        <item itemvalue="Application.Question34" />
+        <item itemvalue="Application.Question20" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662117868106</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Durga Notes">
+      <created>1662456428110</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1662456428110</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -244,6 +260,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Advanced class design" />
     <MESSAGE value="Inner classes" />
     <MESSAGE value="Udemy Test" />
@@ -252,7 +269,8 @@
     <MESSAGE value="Wildcards and Comparable/Comparator methods" />
     <MESSAGE value="Streams Methods 1" />
     <MESSAGE value="Streams udemy Answers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Streams udemy Answers" />
+    <MESSAGE value="Durga Notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Durga Notes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -347,6 +365,81 @@
           <line>10</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question12.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question12.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question12.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question12.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question12.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question12.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question12.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question12.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ocpbook1/ArrayStore.java</url>
           <line>5</line>
@@ -373,6 +466,39 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java</url>
+          <line>5</line>
+          <properties class="advancedJavaClassDesigned.Question7Whiz" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java</url>
+          <line>14</line>
+          <properties class="advancedJavaClassDesigned.Value" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question12.java</url>
+          <line>14</line>
+          <properties class="advancedJavaClassDesigned.Player3" method="equals">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java</url>
+          <line>13</line>
+          <properties field="level" class="advancedJavaClassDesigned.Value" />
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
