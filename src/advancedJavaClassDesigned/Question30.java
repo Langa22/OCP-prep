@@ -1,6 +1,6 @@
 package advancedJavaClassDesigned;
 class Outer {
-    private String name = "James Gosling";
+    private String name = ".James Gosling";
     //Insert inner class definition here
     class Inner{
         public void printName(){

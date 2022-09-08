@@ -1,35 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Durga Notes">
-      <change afterPath="$PROJECT_DIR$/src/Dumps/1f3f9e57-19c5-44bc-81a2-4a83e1771ac3.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/6198fec3-fdb7-4858-9324-e38c2809c3e1.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question24$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question24$TrafficLight.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question24.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question2Whiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question3whiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question8.java" afterDir="false" />
+    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Java Advanced Class design">
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question34.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question37.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question41.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question43.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question48.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question58.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question61.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question30.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,19 +51,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/CMDQ123/Documents/Projects/OCPNotes/src/DurgaSoftNotes",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/CMDQ123/Documents/Projects/OCPNotes/src/DurgaSoftNotes&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\CMDQ123\Documents\Projects\OCPNotes\src\DurgaSoftNotes" />
@@ -83,9 +75,9 @@
       <recent name="lambdaExpressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question27">
-    <configuration name="Question20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question20" />
+  <component name="RunManager" selected="Application.Question59">
+    <configuration name="Question32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question32" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question22" />
+    <configuration name="Question35" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question35" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question23" />
+    <configuration name="Question36" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question36" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +115,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question24" />
+    <configuration name="Question45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question45" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -136,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question27" />
+    <configuration name="Question59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="advancedJavaClassDesigned.Question59" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -151,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question27" />
-        <item itemvalue="Application.Question24" />
-        <item itemvalue="Application.Question23" />
-        <item itemvalue="Application.Question22" />
-        <item itemvalue="Application.Question20" />
+        <item itemvalue="Application.Question59" />
+        <item itemvalue="Application.Question45" />
+        <item itemvalue="Application.Question36" />
+        <item itemvalue="Application.Question35" />
+        <item itemvalue="Application.Question32" />
       </list>
     </recent_temporary>
   </component>
@@ -245,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662456428110</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Java Advanced Class design">
+      <created>1662557441072</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1662557441072</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,7 +269,8 @@
     <MESSAGE value="Streams Methods 1" />
     <MESSAGE value="Streams udemy Answers" />
     <MESSAGE value="Durga Notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Durga Notes" />
+    <MESSAGE value="Java Advanced Class design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Advanced Class design" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
