@@ -9,6 +9,5 @@ class Outer8 {
 public class Question61 {
     public static void main(String[] args) {
         /*INSERT*/
-
     }
 }

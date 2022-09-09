@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Java Advanced Class design">
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question33.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question34.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question35.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question36.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question37.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question61.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question30.java" afterDir="false" />
+    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Java Advanced Class design udemy">
+      <change beforePath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question61.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/advancedJavaClassDesigned/Question61.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -244,7 +225,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662557441072</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Java Advanced Class design udemy">
+      <created>1662641271248</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1662641271248</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,7 +258,8 @@
     <MESSAGE value="Streams udemy Answers" />
     <MESSAGE value="Durga Notes" />
     <MESSAGE value="Java Advanced Class design" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Advanced Class design" />
+    <MESSAGE value="Java Advanced Class design udemy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Advanced Class design udemy" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
