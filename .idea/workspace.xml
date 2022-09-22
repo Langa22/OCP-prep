@@ -1,18 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Exceptions">
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.30.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JBDC/Question45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JBDC/Question48.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JBDC/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Multithreading/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="New update">
+      <change afterPath="$PROJECT_DIR$/src/JBDC/Question50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JBDC/Question51.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JBDC/Question52.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JBDC/Question54.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JBDC/Question57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JBDC/Question60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/properties.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCPNotes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OCPNotes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exceptions/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/exceptions/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JBDC/Question49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JBDC/Question49.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,9 +65,9 @@
       <recent name="lambdaExpressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question48">
-    <configuration name="Question45" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JBDC.Question45" />
+  <component name="RunManager" selected="Application.Question60">
+    <configuration name="Question51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JBDC.Question51" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question48" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JBDC.Question48" />
+    <configuration name="Question52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JBDC.Question52" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JBDC.Test" />
+    <configuration name="Question54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JBDC.Question54" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -107,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.Test1" />
+    <configuration name="Question57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JBDC.Question57" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="JBDC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Multithreading.Test2" />
+    <configuration name="Question60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JBDC.Question60" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Multithreading.*" />
+          <option name="PATTERN" value="JBDC.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question48" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Question45" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
+        <item itemvalue="Application.Question60" />
+        <item itemvalue="Application.Question57" />
+        <item itemvalue="Application.Question54" />
+        <item itemvalue="Application.Question52" />
+        <item itemvalue="Application.Question51" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +255,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663158117224</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="New update">
+      <created>1663682264381</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1663682264381</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -317,7 +322,8 @@
     <MESSAGE value="Java Advanced Class design" />
     <MESSAGE value="Java Advanced Class design udemy" />
     <MESSAGE value="Exceptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exceptions" />
+    <MESSAGE value="New update" />
+    <option name="LAST_COMMIT_MESSAGE" value="New update" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
