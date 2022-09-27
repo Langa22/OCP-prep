@@ -1,16 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="New update">
-      <change afterPath="$PROJECT_DIR$/src/JBDC/Question50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JBDC/Question51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JBDC/Question52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JBDC/Question54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JBDC/Question57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JBDC/Question60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/properties.properties" afterDir="false" />
+    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="JDBC questions">
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JBDC/Question76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JBDC/Question77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JBDC/Question78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JBDC/Question79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/JBDC/Question80.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JBDC/Question49.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JBDC/Question49.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JBDC/Question65.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JBDC/Question65.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/properties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/properties.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,20 +66,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Project.color": "5d5024",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Precision 7530/IdeaProjects/OCP-prep/lib/mysql-connector-java-8.0.30.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Project.color&quot;: &quot;5d5024&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Precision 7530/IdeaProjects/OCP-prep/lib/mysql-connector-java-8.0.30.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\CMDQ123\Documents\Projects\OCPNotes\src\DurgaSoftNotes" />
@@ -65,13 +91,13 @@
       <recent name="lambdaExpressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question60">
-    <configuration name="Question51" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JBDC.Question51" />
+  <component name="RunManager" selected="Application.Question32">
+    <configuration name="Question27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question27" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JBDC.*" />
+          <option name="PATTERN" value="Dumps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JBDC.Question52" />
+    <configuration name="Question28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question28" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JBDC.*" />
+          <option name="PATTERN" value="Dumps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question54" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JBDC.Question54" />
+    <configuration name="Question29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question29" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JBDC.*" />
+          <option name="PATTERN" value="Dumps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question57" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JBDC.Question57" />
+    <configuration name="Question30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question30" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JBDC.*" />
+          <option name="PATTERN" value="Dumps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +144,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JBDC.Question60" />
+    <configuration name="Question32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question32" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="JBDC.*" />
+          <option name="PATTERN" value="Dumps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question60" />
-        <item itemvalue="Application.Question57" />
-        <item itemvalue="Application.Question54" />
-        <item itemvalue="Application.Question52" />
-        <item itemvalue="Application.Question51" />
+        <item itemvalue="Application.Question32" />
+        <item itemvalue="Application.Question30" />
+        <item itemvalue="Application.Question29" />
+        <item itemvalue="Application.Question28" />
+        <item itemvalue="Application.Question27" />
       </list>
     </recent_temporary>
   </component>
@@ -262,7 +288,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663682264381</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="JDBC questions">
+      <created>1663847123672</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663847123672</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,7 +356,8 @@
     <MESSAGE value="Java Advanced Class design udemy" />
     <MESSAGE value="Exceptions" />
     <MESSAGE value="New update" />
-    <option name="LAST_COMMIT_MESSAGE" value="New update" />
+    <MESSAGE value="JDBC questions" />
+    <option name="LAST_COMMIT_MESSAGE" value="JDBC questions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -493,6 +527,61 @@
           <line>15</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/ocpbook1/ArrayStore.java</url>
           <line>5</line>
@@ -546,6 +635,33 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>11</line>
+          <properties class="Dumps.ImagePrinter" method="close">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>2</line>
+          <properties class="Dumps.ImageScanner" method="close">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Dumps/Question28.java</url>
+          <line>5</line>
+          <properties class="Dumps.ImageScanner" method="scanImage">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-field">
           <url>file://$PROJECT_DIR$/src/advancedJavaClassDesigned/Question7Whiz.java</url>
