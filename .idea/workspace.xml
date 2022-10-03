@@ -2,26 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Dumps answers">
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question41.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question43.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question50.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question51.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question54.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question58.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question59.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question60.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question61.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question62.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question63.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question71.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question73.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question74.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question76.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question77.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question78.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question79.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question80.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question81.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question82.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question83.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question84.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCPNotes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OCPNotes.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +72,9 @@
       <recent name="lambdaExpressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question66">
-    <configuration name="Question59" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question59" />
+  <component name="RunManager" selected="Application.Question84">
+    <configuration name="Question80" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question80" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question60" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question60" />
+    <configuration name="Question81" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question81" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -103,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question61" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question61" />
+    <configuration name="Question82" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question82" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -116,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question64" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question64" />
+    <configuration name="Question83" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question83" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -129,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question66" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question66" />
+    <configuration name="Question84" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question84" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -144,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question66" />
-        <item itemvalue="Application.Question64" />
-        <item itemvalue="Application.Question61" />
-        <item itemvalue="Application.Question60" />
-        <item itemvalue="Application.Question59" />
+        <item itemvalue="Application.Question84" />
+        <item itemvalue="Application.Question83" />
+        <item itemvalue="Application.Question82" />
+        <item itemvalue="Application.Question81" />
+        <item itemvalue="Application.Question80" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664359211596</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Dumps answers">
+      <created>1664786584186</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1664786584186</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
