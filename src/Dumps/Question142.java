@@ -10,7 +10,7 @@ class Block{
     int size;
     Block(int size,String color){
         this.size=size;
-        this.color=color;
+        this.color=color;;
     }
 }
 class ColorSorter implements Comparator<Block> {

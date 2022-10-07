@@ -7,6 +7,6 @@ public class Question143 {
         Stream.of("Java","Unix","Linux")
                 .filter(s->s.contains("n"))
                 .peek(s -> System.out.println("PEEK: "+s))
-                .findAny();
+                .findAny();;
     }
 }

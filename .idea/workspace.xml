@@ -1,65 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Dumps answers">
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question111.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question127.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question130.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question133.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question134.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question135.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question136.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question137.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question138.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question139.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question140.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question141.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question142.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question143.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question144.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question145.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question146.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question147.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question148.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question149.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question150.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question153.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question155.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question157.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question158.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question160.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question161.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question162.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question163.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question164.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question85.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question86.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question87.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question88.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/question113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Greetings.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MessagesBundle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MessagesBundle_de_DE.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MessagesBundle_fr_FR.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Dumps answers" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -345,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664805500031</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Dumps answers">
+      <created>1665079257193</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665079257194</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

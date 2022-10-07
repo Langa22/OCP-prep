@@ -8,7 +8,7 @@ public class Question157 {
         BufferedWriter bw=new BufferedWriter(new FileWriter("C:/Users/Precision 7530/Documents/MyTxt/alldata.txt"));
         String line=null;
         while((line= br.readLine())!=null){
-            bw.append(line+"\n");
+            bw.append(line+"\n");;
         }
         bw.flush();//line n1
     }

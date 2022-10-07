@@ -11,7 +11,7 @@ public class Question137 {
             InputStreamReader isr=new InputStreamReader(fis);
             BufferedReader br=new BufferedReader(isr);){
             if(br.markSupported()){
-                System.out.print((char)br.read());
+                System.out.print((char)br.read());;
                 br.mark(2);
                 System.out.print((char)br.read());
                 br.reset();

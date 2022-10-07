@@ -25,7 +25,7 @@ public class Question116 {
         List<Vehicle4>vehicle= Arrays.asList(
                 new Vehicle4(2,"Car"),
                 new Vehicle4(3,"Bike"),
-                new Vehicle4(1,"Truck"));
+                new Vehicle4(1,"Truck"));;
         vehicle.stream()
                 .sorted(Comparator.comparing ((Vehicle4 v) -> v.getvId()))
                 .forEach(System.out::print);

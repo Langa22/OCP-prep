@@ -16,7 +16,7 @@ class Product3{
         public void move() {
 
         }
-    };
+    };;
 }
 public class Question135 {
 }

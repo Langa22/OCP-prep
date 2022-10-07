@@ -21,7 +21,7 @@ class Student3{
 public class Question158 {
     public static void main(String[] args) {
         List<Student2> stds = Arrays.asList(
-                new Student2 ("Jessy", "Java ME", "Chicago"),
+                new Student2 ("Jessy", "Java MEp", "Chicago"),
                 new Student2 ("Helen", "Java EE", "Houston"),
                 new Student2 ("Mark", "Java ME", "Chicago"));
        stds.stream()

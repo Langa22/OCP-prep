@@ -10,7 +10,7 @@ import java.util.stream.Stream;
 public class Question120 {
     public static void main(String[] args) throws IOException {
 //        Stream<String> stream = Files.find(Paths.get("C:/Users/Precision 7530/Documents/MyTxt/version.txt"));
-//        stream.forEach((String c) -> System.out.println(c));
+//        stream.forEach((String c) -> System.out.println(c));;
 
 //       Stream<Path> stream = Files.find (Paths.get ("C:/Users/Precision 7530/Documents/MyTxt/version.txt"));
 //       stream.forEach(c)-> System.out.println(c));

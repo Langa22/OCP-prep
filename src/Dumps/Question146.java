@@ -7,7 +7,7 @@ import java.util.Properties;
 public class Question146 {
     public static void main(String[] args) {
         Connection con=null;
-        String username="root";
+        String username="root";;
         String password="root";
         String dbURL="jdbc:mysql://localhost:3306/ocp";
         try{

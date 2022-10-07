@@ -11,7 +11,7 @@ public class Question110 {
             public boolean checkLength(String str){
                 return str.length()>5&&str.length()<10;
             }
-        }.checkLength("Hello");
+        }.checkLength("Hello");;
 
         Predicate<String> p=(s)->s.length()>5&&s.length()<10;
         p.test("Hello");

@@ -14,7 +14,7 @@ class Employee{
     public Employee(String dept, String name) {
         this.dept = dept;
         this.name = name;
-    }
+    };
     public String toString() {
         return getDept()+":" + getName() ;
     }

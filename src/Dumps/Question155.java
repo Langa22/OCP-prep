@@ -16,7 +16,7 @@ class Game extends Video{
 public class Question155 {
     public static void main(String[] args) {
         try{
-            new Game().play();
+            new Game().play();;
         }catch (Exception e){
             System.out.println(e.getClass());
         }

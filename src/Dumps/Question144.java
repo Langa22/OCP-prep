@@ -11,7 +11,7 @@ class Person1 implements Comparable<Person1> { //line n1
     }
     public int compareTo(Person1 p1){
         return this.name.compareTo(p1.name);
-    }//line n2
+    }//line n2o
 }
 public class Question144 {
     public static void main(String[] args) {

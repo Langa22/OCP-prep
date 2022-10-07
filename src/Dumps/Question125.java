@@ -10,6 +10,6 @@ public class Question125 {
                 .filter(e->e>4)
                 .peek(e-> System.out.print("Price "+e))
                 .map(n->n-1)
-                .forEach(n-> System.out.print(" New Price "+n));
+                .forEach(n-> System.out.print(" New Price "+n));;
     }
 }

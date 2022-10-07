@@ -16,7 +16,7 @@ public class Question148 {
     public static void main(String[] args) {
         Test1 t=new Test1();
         List<String>li= Arrays.asList("Dog","Cat","Mouse");
-        t.setList(li.stream().collect(Collectors.toList()));
+        t.setList(li.stream().collect(Collectors.toList()));;
         //t.getList().forEach(Test1::printValues);
     }
 }

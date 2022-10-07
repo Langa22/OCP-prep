@@ -2,7 +2,7 @@ package Dumps;
 
 class Foo<K,V>{
     private K key;
-    private V value;
+    private V value;;
 
     public Foo(K key, V value) {
         this.key = key;

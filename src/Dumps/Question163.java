@@ -20,7 +20,7 @@ public class Question163 {
                 new Product2 (3, 20)));
         Product2 p = products.stream().reduce(new Product2 (4, 0), (p1, p2) -> {
             p1.price+=p2.price;
-            return new Product2 (p1.id, p1.price);});
+            return new Product2 (p1.id, p1.price);});;
         products.add(p);
         products.stream().parallel()
                 .reduce((p1, p2) -> p1.price > p2.price ? p1 : p2)

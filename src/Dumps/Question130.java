@@ -10,7 +10,7 @@ class Product4{
 
     public Product4(String name, Integer price) {
         this.name = name;
-        this.price = price;
+        this.price = price;;
     }
     public void printVal(){System.out.print(name+" Price:"+price+" ");}
     public Integer getPrice() {return price;}

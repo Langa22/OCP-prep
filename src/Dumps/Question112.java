@@ -11,7 +11,7 @@ public class Question112 {
         long timeToBreakfast=0;
         LocalTime office_start=LocalTime.of(7,30);
         if(office_start.isAfter(now)){
-            timeToBreakfast=now.until(office_start,MINUTES);
+            timeToBreakfast=now.until(office_start,MINUTES);;
         }else {
             timeToBreakfast=now.until(office_start,HOURS);
         }

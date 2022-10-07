@@ -6,7 +6,7 @@ import java.time.temporal.ChronoUnit;
 public class Question118 {
     public static void main(String[] args) throws InterruptedException {
         Instant loginTime=Instant.now();
-        Thread.sleep(1000);
+        Thread.sleep(1000);;
 
         Instant logoutTime=Instant.now();
 

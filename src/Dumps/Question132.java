@@ -17,7 +17,7 @@ public class Question132 {
             public void run() {
                 try{
                     Thread.sleep(1000*ai.incrementAndGet());
-                    list.add("X");
+                    list.add("X");;
                     barrier.await();
                 }catch (Exception ex){
 

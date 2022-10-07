@@ -6,7 +6,7 @@ class MyClass implements AutoCloseable{
 }
 public class Question121 {
     public static void main(String[] args) {
-        MyClass obj=null;
+        MyClass obj=null;;
         try(MyClass obj1=new MyClass()){
             obj1.test=100;
             obj=obj1.copyObject();

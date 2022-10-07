@@ -36,7 +36,7 @@ public class Question164 {
                 new Student2 ("Helen", "Java EE", "Houston"),
                 new Student2 ("Mark", "Java ME", "Chicago"));
 //        stds.stream()
-//                .collect(Collectors.groupingBy(Student2::getCourse))
+//                .collect(Collectors.groupingBy(Student2::getCourse))[
 //                .forEach(src,res)->System.out.println(src);
 
     }

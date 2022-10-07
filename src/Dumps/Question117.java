@@ -8,7 +8,7 @@ public class Question117 {
         List<String>valList= Arrays.asList("","George","","John","Jim");
         Long newVal=valList.stream()
                 .filter(x->!x.isEmpty())
-                .count();
+                .count();;
         System.out.println(newVal);
     }
 }

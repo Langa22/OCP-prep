@@ -9,7 +9,7 @@ class Person{
 
     public Person(String firstname, int salary) {
         this.firstname = firstname;
-        this.salary = salary;
+        this.salary = salary;;
     }
 
     public String getFirstname() {

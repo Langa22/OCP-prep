@@ -6,7 +6,7 @@ interface Interface1{
 }
 interface Interface2{
     public default void sayHi(){
-        System.out.println("Hi Interface-2");
+        System.out.println("Hi Interface-2");;
     }
 }
 public class Question141 implements Interface1,Interface2{

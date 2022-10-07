@@ -6,7 +6,7 @@ public class Question149 {
     public static void main(String[] args) throws SQLException {
         Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/ocp","root","root");
         Statement st=con.createStatement(ResultSet.TYPE_SCROLL_INSENSITIVE,ResultSet.CONCUR_UPDATABLE);
-        st.execute("SELECT * FROM Stud");
+        st.execute("SELECT * FROM Stud");;
         ResultSet rs= st.getResultSet();
         rs.absolute(3);
         rs.moveToInsertRow();

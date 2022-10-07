@@ -9,7 +9,7 @@ public class Question136 {
         nums.add(1000);
         nums.push(2000);
         nums.add(3000);
-        nums.push(4000);
+        nums.push(4000);;
         Integer i1=nums.remove();
         Integer i2=nums.pop();
         System.out.println(i1+" : "+i2);
