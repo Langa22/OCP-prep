@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Dumps answers" />
+    <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Dumps answers">
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question101.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question102.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question104.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question105.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question106.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question107.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question90.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question91.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question92.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question93.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question94.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question95.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question96.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question97.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question98.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/Question99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Dumps/employee" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JBDC/Question45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JBDC/Question45.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,20 +52,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Project.color&quot;: &quot;5d5024&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Precision 7530/IdeaProjects/OCP-prep/lib/mysql-connector-java-8.0.30.jar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Project.color": "5d5024",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Precision 7530/IdeaProjects/OCP-prep/lib/mysql-connector-java-8.0.30.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.import"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\CMDQ123\Documents\Projects\OCPNotes\src\DurgaSoftNotes" />
@@ -55,9 +77,9 @@
       <recent name="lambdaExpressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question109">
-    <configuration name="Question109" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question109" />
+  <component name="RunManager" selected="Application.Question89">
+    <configuration name="Question89" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question89" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -69,8 +91,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question110" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question110" />
+    <configuration name="Question90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question90" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question111" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question111" />
+    <configuration name="Question91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question91" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question112" />
+    <configuration name="Question92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question92" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="question113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.question113" />
+    <configuration name="Question93" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Dumps.Question93" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
@@ -123,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question109" />
-        <item itemvalue="Application.Question110" />
-        <item itemvalue="Application.Question111" />
-        <item itemvalue="Application.Question112" />
-        <item itemvalue="Application.question113" />
+        <item itemvalue="Application.Question89" />
+        <item itemvalue="Application.Question90" />
+        <item itemvalue="Application.Question91" />
+        <item itemvalue="Application.Question92" />
+        <item itemvalue="Application.Question93" />
       </list>
     </recent_temporary>
   </component>
