@@ -2,27 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Dumps answers">
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question90.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question91.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question92.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question93.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question94.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question95.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question96.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question97.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question98.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/Question99.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Dumps/employee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question38.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question39.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question40.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JBDC/Question45.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JBDC/Question45.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +85,13 @@
       <recent name="lambdaExpressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question89">
-    <configuration name="Question89" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question89" />
+  <component name="RunManager" selected="Application.Question46">
+    <configuration name="Question31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Setion1ExamTopis.Question31" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dumps.*" />
+          <option name="PATTERN" value="Setion1ExamTopis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question90" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question90" />
+    <configuration name="Question32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Setion1ExamTopis.Question32" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dumps.*" />
+          <option name="PATTERN" value="Setion1ExamTopis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question91" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question91" />
+    <configuration name="Question38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Setion1ExamTopis.Question38" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dumps.*" />
+          <option name="PATTERN" value="Setion1ExamTopis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question92" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question92" />
+    <configuration name="Question39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Setion1ExamTopis.Question39" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dumps.*" />
+          <option name="PATTERN" value="Setion1ExamTopis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +138,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Question93" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dumps.Question93" />
+    <configuration name="Question46" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Setion1ExamTopis.Question46" />
       <module name="OCPNotes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dumps.*" />
+          <option name="PATTERN" value="Setion1ExamTopis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Question89" />
-        <item itemvalue="Application.Question90" />
-        <item itemvalue="Application.Question91" />
-        <item itemvalue="Application.Question92" />
-        <item itemvalue="Application.Question93" />
+        <item itemvalue="Application.Question46" />
+        <item itemvalue="Application.Question39" />
+        <item itemvalue="Application.Question38" />
+        <item itemvalue="Application.Question32" />
+        <item itemvalue="Application.Question31" />
       </list>
     </recent_temporary>
   </component>
@@ -316,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665079257194</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Dumps answers">
+      <created>1665301018732</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1665301018732</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
