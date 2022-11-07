@@ -2,34 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="adf70069-9143-4edf-afe5-dae05fec7094" name="Changes" comment="Dumps answers">
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question26.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question30.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question31.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question32.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question38.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question39.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question40.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Setion1ExamTopis/Question9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setion2ExamTopics/Question72.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setion2ExamTopics/Question72.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setion2ExamTopics/Question75.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/setion2ExamTopics/Question77.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,20 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Project.color": "5d5024",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/Precision 7530/IdeaProjects/OCP-prep/lib/mysql-connector-java-8.0.30.jar",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "editor.preferences.import"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Project.color&quot;: &quot;5d5024&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Precision 7530/IdeaProjects/OCP-prep/lib/mysql-connector-java-8.0.30.jar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.import&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\CMDQ123\Documents\Projects\OCPNotes\src\DurgaSoftNotes" />
@@ -85,46 +61,7 @@
       <recent name="lambdaExpressions" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Question46">
-    <configuration name="Question31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Setion1ExamTopis.Question31" />
-      <module name="OCPNotes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Setion1ExamTopis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Setion1ExamTopis.Question32" />
-      <module name="OCPNotes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Setion1ExamTopis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Question38" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Setion1ExamTopis.Question38" />
-      <module name="OCPNotes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Setion1ExamTopis.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Question77">
     <configuration name="Question39" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Setion1ExamTopis.Question39" />
       <module name="OCPNotes" />
@@ -151,13 +88,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Question72" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="setion2ExamTopics.Question72" />
+      <module name="OCPNotes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="setion2ExamTopics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question75" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="setion2ExamTopics.Question75" />
+      <module name="OCPNotes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="setion2ExamTopics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Question77" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="setion2ExamTopics.Question77" />
+      <module name="OCPNotes" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="setion2ExamTopics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Question77" />
+        <item itemvalue="Application.Question75" />
+        <item itemvalue="Application.Question72" />
         <item itemvalue="Application.Question46" />
         <item itemvalue="Application.Question39" />
-        <item itemvalue="Application.Question38" />
-        <item itemvalue="Application.Question32" />
-        <item itemvalue="Application.Question31" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665301018732</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Dumps answers">
+      <created>1665748223414</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665748223414</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
